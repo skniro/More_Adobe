@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "more_adobe",
+  "version": "${version}",
+  "name": "MoreAdobe",
+  "description": "Add some Adobe blocks.",
+  "authors": [
+    "skniro"
+  ],
+  "contact": {
+    "website": "https://www.curseforge.com/skniro",
+    "sources": "https://github.com/skniro/MoreAdobe",
+    "issues": "https://github.com/skniro/MoreAdobe/issues"},
+  "license": "MIT",
+  "icon": "assets/more_adobe/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "com.skniro.moreadobe.datagen.MoreAdobeDataGeneration"
+    ],
+    "client": [
+      "com.skniro.moreadobe.client.MoreAdobeClient"
+    ],
+    "main": [
+      "com.skniro.moreadobe.MoreAdobe"
+    ]
+  },
+  "mixins": [
+    "more_adobe.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.0",
+    "fabric": "*",
+    "minecraft": "1.14.x"
+  }
+}

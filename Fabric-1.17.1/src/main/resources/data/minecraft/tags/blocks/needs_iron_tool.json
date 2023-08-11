@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "more_adobe:photoshop",
+      "required": false
+    },
+    {
+      "id": "more_adobe:after_effects",
+      "required": false
+    },
+    {
+      "id": "more_adobe:bridge",
+      "required": false
+    },
+    {
+      "id": "more_adobe:dreamweaver",
+      "required": false
+    },
+    {
+      "id": "more_adobe:encore",
+      "required": false
+    },
+    {
+      "id": "more_adobe:flash",
+      "required": false
+    },
+    {
+      "id": "more_adobe:animate",
+      "required": false
+    },
+    {
+      "id": "more_adobe:indesign",
+      "required": false
+    },
+    {
+      "id": "more_adobe:lightroom",
+      "required": false
+    },
+    {
+      "id": "more_adobe:prelude",
+      "required": false
+    },
+    {
+      "id": "more_adobe:premiere_pro",
+      "required": false
+    },
+    {
+      "id": "more_adobe:speedgrade",
+      "required": false
+    }
+  ]
+}

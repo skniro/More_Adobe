@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "more_adobe:photoshop",
+    "more_adobe:after_effects",
+    "more_adobe:bridge",
+    "more_adobe:dreamweaver",
+    "more_adobe:encore",
+    "more_adobe:fireworks",
+    "more_adobe:flash",
+    "more_adobe:animate",
+    "more_adobe:indesign",
+    "more_adobe:lightroom",
+    "more_adobe:prelude",
+    "more_adobe:premiere_pro",
+    "more_adobe:speedgrade"
+  ]
+}

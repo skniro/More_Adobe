@@ -1,0 +1,18 @@
+{
+  "block.more_adobe.after_effects": "After Effects",
+  "block.more_adobe.animate": "Animate",
+  "block.more_adobe.audition": "Audition",
+  "block.more_adobe.bridge": "Bridge",
+  "block.more_adobe.dreamweaver": "Dreamweaver",
+  "block.more_adobe.encore": "Encore",
+  "block.more_adobe.fireworks": "Fireworks",
+  "block.more_adobe.flash": "Flash",
+  "block.more_adobe.illustrator": "Illustrator",
+  "block.more_adobe.indesign": "Indesign",
+  "block.more_adobe.lightroom": "Lightroom",
+  "block.more_adobe.photoshop": "Photoshop",
+  "block.more_adobe.prelude": "Prelude",
+  "block.more_adobe.premiere_pro": "Premier Pro",
+  "block.more_adobe.speedgrade": "SpeedGrade",
+  "itemGroup.more_adobe.test_group": "More Adobe"
+}
